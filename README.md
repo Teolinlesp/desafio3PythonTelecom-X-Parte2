@@ -63,6 +63,3 @@ Se recomienda aplicar programas de fidelización, optimización de precios y pro
 
 ---
 
-## 👩‍💻 Autora
-
-Proyecto desarrollado como práctica de Modelado Predictivo.
